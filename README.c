@@ -1,4 +1,4 @@
-# hello-world2
+/* hello-world2 */
 #include <stdio.h>
 
 int main(int argc, char* argv[]){
